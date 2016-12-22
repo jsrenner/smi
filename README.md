@@ -1,0 +1,2 @@
+# smi
+GitHub Pages
