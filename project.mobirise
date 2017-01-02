@@ -1,27 +1,28 @@
 {
   "settings": {
-    "name": "SMI Advisory Splash",
+    "name": "NewSite-01-02_1158",
     "currentPage": "index.html",
     "theme": {
-      "name": "unicore",
-      "title": "Unicore",
+      "name": "mobirise3",
+      "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#278da4",
-        "successColor": "#03a9f4",
-        "infoColor": "#03a9f4",
-        "warningColor": "#3f51b5",
-        "dangerColor": "#03a9f4",
+        "primaryColor": "#2b0680",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#00a885",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
         "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isSquareButtons": true
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
       }
     },
-    "versionFirst": "3.10.4",
-    "uniqCompNum": 24,
-    "versionPublish": "3.10.4",
-    "favicon": "",
-    "noImageResize": "",
-    "scrollAnimation": ""
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 4,
+    "versionPublish": "3.10.5"
   },
   "pages": {
     "index.html": {
@@ -35,69 +36,39 @@
       },
       "components": [
         {
-          "alias": "unicore/components",
+          "_inherit": "msg-box8",
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table1",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-0",
           "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "elements": "3",
-            "best": "4",
-            "paddingTop": "3",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#8fafc3",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            "showButton": true
           },
-          "title": "welcome to SMI Advisory Services",
-          "text": "Please make a selection below.",
-          "title1": "SMI Private Client",
-          "text1": "Perfect for small less than 10 team",
-          "currency1": "$",
-          "price1": "",
-          "period1": "/ month",
-          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "favorite": "Most Popular",
-          "title2": "ENTERPRISE",
-          "text2": "Perfect for small less than 10 team",
-          "currency2": "$",
-          "price2": "49",
-          "period2": "/ month",
-          "list2": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">1 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\">CHOOSE PLAN</a>",
-          "title3": "DEVELOPER",
-          "text3": "Perfect for small less than 10 team",
-          "currency3": "$",
-          "price3": "99",
-          "period3": "/ month",
-          "list3": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">1 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\">CHOOSE PLAN</a>",
-          "title4": "SUPER",
-          "text4": "Perfect for small less than 10 team",
-          "currency4": "$",
-          "price4": "199",
-          "period4": "/ month",
-          "list4": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\">CHOOSE PLAN</a>",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg);\">\n    <div class=\"pricing\" id=\"pricing\" style=\"padding-top: 60px; padding-bottom: 300px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"section-head-lite text-center col-md-8 col-md-offset-2 space60\">\n                \n                \n                \n                \n                    \n                            <div class=\"mbr-figure\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px;\"></div><br><br><br>\n                            \n                      \n                \n                    \n                    \n                    \n                <h1 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"67\">welcome to SMI Advisory Services</h1>\n                <p class=\"mbr-editable-content\" code-editable-id=\"68\">Please make a selection below.</p>\n            </div>\n            <div class=\"row pricing1\">\n                <div class=\"col-md-12\">\n\n                    <!-- Pricing Plan - 1 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"69\">SMI Private Client</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"70\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"71\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"72\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n\n                    <!-- Pricing Plan - 2 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                       <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"73\">smi plan&nbsp;</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"74\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"75\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"76\">LEARN MORE</a></div>\n                      \n                    </div>\n                    </div>\n\n                    <!-- Pricing Plan - 3 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"77\">SMI funds</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"78\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"79\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"80\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n                    </div>\n\n                     <!-- Pricing Plan - 4 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: none;\"><div class=\"popular mbr-title-font mbr-editable-content\" code-editable-id=\"81\">Most Popular</div>\n                        <div class=\"pricing__item\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"82\">SUPER</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"83\">Perfect for small less than 10 team</p>\n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"84\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"85\">199</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"86\">/ month</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"87\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"88\">CHOOSE PLAN</a></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</section>",
+          "title": "<br>Welcome to SMI Plan<br><span style=\"font-weight: normal;\">&nbsp;Powered by Money Guide Pro</span>",
+          "text": "<p>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LOGIN</a>",
+          "_customHTML": "<section class=\"mbr-section article\" style=\"background-color: rgb(242, 242, 242); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n              <img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-black.png\" style=\"width: 100px;\">  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"58\"><br>Welcome to SMI Plan<br><span style=\"font-weight: normal;\">&nbsp;Powered by Money Guide Pro</span></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"59\"><p>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p><p><br></p></div>\n                <div><a class=\"btn mbr-editable-button btn-success\" href=\"https://mobirise.com\" code-editable-id=\"60\">CLICK HERE TO GET STARTED</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "pricing-table1-k"
+          "_customCSS": ".mbr-section-title, p {\n\tcolor: #000;\n}\n.mbr-section-title SPAN {\n\tfont-size: 19px;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
